@@ -13,10 +13,11 @@
 - 🎓 Education
     - Dept. of Artificial Intelligence Convergence at Hallym University (2023 ~ present)
     - B.S., Dept. of Computer Science at Kangwon National University (2014 ~ 2020)
-      
+    - [42Seoul](https://github.com/nain95/42_seoul) - Innovation Academy's Peer-Learning Software Engineering Program (2020.12 ~ 2022.05)
+
 - 💼 Work Experience
     - Artificial Intelligence Research Center, Hallym University Sacred Heart Hospital (2023.02 ~ present)
-    - [42Seoul](https://github.com/nain95/42_seoul) - Innovation Academy's Peer-Learning Software Engineering Program (2020.12 ~ 2022.05)
+    - Data & Content Research Intern, Digital Quotient (DQ) (2019.07 ~ 2019.08)
 
 ### Awards & Certifications
 
