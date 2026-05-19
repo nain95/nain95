@@ -10,7 +10,7 @@
 
 ### Experience
 - 🎓 Education
-    - M.E. student, Dept. of Artificial Intelligence Convergence at Hallym University (2024 ~ present)
+    - M.E. student, Dept. of Artificial Intelligence Convergence at Hallym University (2024 ~ 2026)
     - B.S., Dept. of Computer Science at Kangwon National University (2014 ~ 2020)
     - [42Seoul](https://github.com/nain95/42_seoul) - Innovation Academy's Peer-Learning Software Engineering Program (2020.12 ~ 2022.05)
 
