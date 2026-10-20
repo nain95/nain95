@@ -2,12 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:najio95@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/inyeop/) 
 
-### Who Am I
-
-- ⚡ Research-driven developer, code-driven researcher
-- 🥇 AI researcher specializing in Medical AI and NLP
-- 🔍 Currently focusing on Vision-Language multimodal research for AI systems
-
 ### Experience
 - 🎓 Education
     - M.E., Dept. of Artificial Intelligence Convergence at Hallym University (2024 ~ 2026)
